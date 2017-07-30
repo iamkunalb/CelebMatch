@@ -1,0 +1,178 @@
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Tabs.iOS.exe.config
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Tabs.iOS.exe
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Tabs.iOS.pdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Calabash.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Geolocator.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Media.Abstractions.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Media.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/SQLitePCLRaw.core.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/System.Net.Http.Extensions.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/System.Net.Http.Primitives.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Tabs.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Tabs.pdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Tabs.dll.config
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Media.Abstractions.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Media.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/System.Net.Http.Extensions.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/System.Net.Http.Primitives.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.Ext.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Newtonsoft.Json.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/Plugin.Geolocator.xml
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/actool/_PartialAppManifest.items
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/actool/_BundleResourceWithLogicalName.items
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/optimized/
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/Tabs.iOS.csprojResolveAssemblyReference.cache
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/Tabs.iOS.csproj.Tabs.iOS.exe.config
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/Tabs.iOS.csproj.CoreCompileInputs.cache
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/Tabs.iOS.exe
+/Users/ginnib/Downloads/2017-Phase-1-Module-2-master 4/6. Integrate Database to solution/6.4 Integrating Easy Tables with Xamarin.Forms (POST Request)/PostRequestCompletedProject/iOS/obj/iPhone/Debug/Tabs.iOS.pdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Tabs.iOS.exe.config
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Tabs.iOS.exe
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Tabs.iOS.pdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Calabash.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Geolocator.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Media.Abstractions.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Media.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/SQLitePCLRaw.core.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/System.Net.Http.Extensions.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/System.Net.Http.Primitives.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Tabs.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Tabs.pdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Tabs.dll.config
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Media.Abstractions.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Media.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/System.Net.Http.Extensions.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/System.Net.Http.Primitives.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.Ext.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Newtonsoft.Json.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/Plugin.Geolocator.xml
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/actool/_PartialAppManifest.items
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/actool/_BundleResourceWithLogicalName.items
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/device-builds/iphone7.1-10.3.3/optimized/
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/Tabs.iOS.csprojResolveAssemblyReference.cache
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/Tabs.iOS.csproj.Tabs.iOS.exe.config
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/Tabs.iOS.csproj.CoreCompileInputs.cache
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/Tabs.iOS.exe
+/Users/ginnib/Desktop/CelebApp/iOS/obj/iPhone/Debug/Tabs.iOS.pdb

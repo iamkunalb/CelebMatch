@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{573FE0A7-D64E-4D36-9B2F-3745B5672BAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/CustomVision.xaml.cs">
+    <Files>
+      <File FileName="Tabs/AzureTable.xaml.cs" Line="35" Column="6" />
+      <File FileName="Tabs/AzureTable.xaml" Line="33" Column="15" />
+      <File FileName="Tabs/AzureManager.cs" Line="33" Column="6" />
+      <File FileName="Tabs/CustomVision.xaml.cs" Line="59" Column="4" />
+      <File FileName="Tabs/celebName.cs" Line="22" Column="1" />
+      <File FileName="Tabs/CustomVision.xaml" Line="12" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tabs.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2E17C260-1F2A-4EDE-BCCC-C0E7D6C4DC38" />
+  <MultiItemStartupConfigurations />
+</Properties>

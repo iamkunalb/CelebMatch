@@ -1,0 +1,6 @@
+/Users/ginnib/Desktop/CelebMatch/iOS/obj/Debug/Tabs.csprojResolveAssemblyReference.cache
+/Users/ginnib/Desktop/CelebMatch/iOS/obj/Debug/Tabs.csproj.CoreCompileInputs.cache
+/Users/ginnib/Desktop/CelebMatch/iOS/obj/Debug/Tabs.App.xaml.g.cs
+/Users/ginnib/Desktop/CelebMatch/iOS/obj/Debug/Tabs.TabsPage.xaml.g.cs
+/Users/ginnib/Desktop/CelebMatch/iOS/obj/Debug/Tabs.AzureTable.xaml.g.cs
+/Users/ginnib/Desktop/CelebMatch/iOS/obj/Debug/Tabs.CustomVision.xaml.g.cs
